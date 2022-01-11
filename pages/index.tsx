@@ -13,7 +13,7 @@ export default function Home() {
         </div>
 
         <div className="social">
-          <div className="animated rotateInDownLeft delay-2s">
+          <div className="animate__animated animate__rotateInDownLeft delay-2s">
             <a target="_blank" href="https://github.com/Kamleshpaul" rel="noreferrer">
               <img
                 src="/icons/github-brands.svg"
@@ -23,7 +23,7 @@ export default function Home() {
             </a>
           </div>
 
-          <div className="animated rotateInUpLeft delay-3s">
+          <div className="animate__animated animate__rotateInUpLeft delay-3s">
             <a
               target="_blank"
               href="https://in.linkedin.com/in/kamlesh-paul" rel="noreferrer"
@@ -36,7 +36,7 @@ export default function Home() {
             </a>
           </div>
 
-          <div className="animated rotateInUpRight delay-4s">
+          <div className="animate__animated animate__rotateInUpRight delay-4s">
             <a
               target="_blank"
               href="https://stackoverflow.com/users/10834466/kamlesh-paul?tab=profile" rel="noreferrer"
@@ -49,7 +49,7 @@ export default function Home() {
             </a>
           </div>
 
-          <div className="animated rotateInDownRight delay-5s">
+          <div className="animate__animated animate__rotateInDownRight delay-5s">
             <a
               target="_blank"
               href="https://twitter.com/kamlesh_paul26" rel="noreferrer"

@@ -12,7 +12,7 @@ function work() {
         <div id="work">
           <div className="row">
             <div className="col s12">
-              <h1>Total Expirene : - {workExpirence} Years</h1>
+              <h1>Total Expirene : - {(workExpirence())} Years</h1>
               <hr className="right" />
 
               <h3>
