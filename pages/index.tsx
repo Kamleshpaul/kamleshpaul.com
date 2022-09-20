@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Kamlesh Paul - Home</title>
+        <title>Kamlesh Paul</title>
       </Head>
       <div id="wapper">
         <div className="name">
